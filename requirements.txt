@@ -1,0 +1,8 @@
+gradio
+tiktoken
+transformers_stream_generator
+modelscope
+torch
+numpy
+pandas
+matplotlib
